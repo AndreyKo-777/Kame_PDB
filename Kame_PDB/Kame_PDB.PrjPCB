@@ -233,6 +233,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document12]
+DocumentPath=C:\Users\Public\Documents\Altium\Projects\PCB_Project_1\Sheet1.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=435297BF-D720-43AA-81DC-23E1C05D8C4A
 Description=Default
